@@ -25,6 +25,7 @@ while($row=mysql_fetch_array($sql))
 }
 	echo"</table>";
 
+
 ?>	
 </body>
 </html>
